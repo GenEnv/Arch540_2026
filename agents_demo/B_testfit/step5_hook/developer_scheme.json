@@ -1,0 +1,28 @@
+{
+  "buildings": [
+    {
+      "id": "T1",
+      "type": "tower",
+      "x": 12,
+      "y": 10,
+      "storeys": 12,
+      "rotated": false
+    },
+    {
+      "id": "T2",
+      "type": "tower",
+      "x": 12,
+      "y": 40,
+      "storeys": 12,
+      "rotated": false
+    },
+    {
+      "id": "S1",
+      "type": "slab",
+      "x": 42,
+      "y": 12,
+      "storeys": 8,
+      "rotated": false
+    }
+  ]
+}

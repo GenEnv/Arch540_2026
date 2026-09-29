@@ -1,0 +1,29 @@
+{
+  "note": "Lot boundary in metres. x runs east, y runs north. The street is along the south edge (the edge that starts at 0,0).",
+  "polygon": [
+    [
+      0,
+      0
+    ],
+    [
+      86,
+      5
+    ],
+    [
+      92,
+      44
+    ],
+    [
+      71,
+      70
+    ],
+    [
+      18,
+      66
+    ],
+    [
+      3,
+      38
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="800" height="210" font-family="Helvetica,Arial,sans-serif">
+<defs><marker id="ar" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#444"/></marker></defs>
+<rect width="800" height="210" fill="white"/>
+<text x="14" y="24" font-size="15" font-weight="bold" fill="#222">Step 0. Baseline without AI: exhaustive, but inside one family</text>
+<rect x="20" y="90" width="150" height="60" rx="8" fill="#3a6ea5" fill-opacity="0.13" stroke="#3a6ea5" stroke-width="2"/>
+<text x="95.0" y="109.0" font-size="12.5" text-anchor="middle" fill="#222">Person fixes</text>
+<text x="95.0" y="124.0" font-size="12.5" text-anchor="middle" fill="#222">one parameterisation</text>
+<text x="95.0" y="139.0" font-size="12.5" text-anchor="middle" fill="#222">(rows)</text>
+<rect x="220" y="90" width="150" height="60" rx="8" fill="#5e9e3e" fill-opacity="0.13" stroke="#5e9e3e" stroke-width="2"/>
+<text x="295.0" y="116.5" font-size="12.5" text-anchor="middle" fill="#222">Script lists every</text>
+<text x="295.0" y="131.5" font-size="12.5" text-anchor="middle" fill="#222">combination (7,308)</text>
+<rect x="420" y="90" width="150" height="60" rx="8" fill="#5e9e3e" fill-opacity="0.13" stroke="#5e9e3e" stroke-width="2"/>
+<text x="495.0" y="116.5" font-size="12.5" text-anchor="middle" fill="#222">Scorer</text>
+<text x="495.0" y="131.5" font-size="12.5" text-anchor="middle" fill="#222">GFA, sun, shape</text>
+<rect x="620" y="90" width="150" height="60" rx="8" fill="#5e9e3e" fill-opacity="0.13" stroke="#5e9e3e" stroke-width="2"/>
+<text x="695.0" y="116.5" font-size="12.5" text-anchor="middle" fill="#222">Front plot</text>
+<text x="695.0" y="131.5" font-size="12.5" text-anchor="middle" fill="#222">and drawings</text>
+<line x1="170" y1="120.0" x2="220" y2="120.0" stroke="#444" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="195.0" y="114.0" font-size="11.5" text-anchor="middle" fill="#444"></text>
+<line x1="370" y1="120.0" x2="420" y2="120.0" stroke="#444" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="395.0" y="114.0" font-size="11.5" text-anchor="middle" fill="#444">each one</text>
+<line x1="570" y1="120.0" x2="620" y2="120.0" stroke="#444" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="595.0" y="114.0" font-size="11.5" text-anchor="middle" fill="#444"></text>
+</svg>

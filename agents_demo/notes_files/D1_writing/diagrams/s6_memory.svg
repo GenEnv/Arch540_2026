@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250" font-family="Helvetica,Arial,sans-serif">
+<defs><marker id="ar" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#444"/></marker></defs>
+<rect width="700" height="250" fill="#fbfbf9"/>
+<path d="M130,85 L260,125" stroke="#444" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<path d="M170,195 L260,145" stroke="#444" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<text x="215.0" y="164.0" font-size="12" fill="#444" text-anchor="middle">auto-loaded</text>
+<path d="M420,135 L500,135" stroke="#444" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<rect x="20" y="60" width="110" height="50" rx="8" fill="#fff" stroke="#3a6ea5" stroke-width="3"/>
+<text x="75.0" y="90.0" font-size="13" text-anchor="middle" fill="#1d1f1e">Notes + ask</text>
+<rect x="20" y="170" width="150" height="50" rx="8" fill="#fff" stroke="#5e9e3e" stroke-width="3"/>
+<text x="95.0" y="192.0" font-size="13" text-anchor="middle" fill="#1d1f1e">CLAUDE.md</text>
+<text x="95.0" y="208.0" font-size="13" text-anchor="middle" fill="#1d1f1e">(studio conventions)</text>
+<rect x="260" y="110" width="160" height="50" rx="8" fill="#fff" stroke="#e0642f" stroke-width="3"/>
+<text x="340.0" y="132.0" font-size="13" text-anchor="middle" fill="#1d1f1e">AI starts fresh,</text>
+<text x="340.0" y="148.0" font-size="13" text-anchor="middle" fill="#1d1f1e">reads CLAUDE.md first</text>
+<rect x="500" y="110" width="140" height="50" rx="8" fill="#fff" stroke="#5e9e3e" stroke-width="3"/>
+<text x="570.0" y="140.0" font-size="13" text-anchor="middle" fill="#1d1f1e">statement file</text>
+</svg>
