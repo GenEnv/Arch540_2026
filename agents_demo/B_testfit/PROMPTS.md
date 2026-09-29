@@ -2,11 +2,22 @@
 
 Each run takes about 3 to 10 minutes.
 
-For each step: copy the folder, open a terminal in the copy, run `claude`, paste the prompt.
+`complete/` has everything together: use it as the template for your own project.
+`steps/` adds one thing at a time: use it to see what each file changes.
+
+For each run: copy the folder, open a terminal in the copy, run `claude`, paste the prompt.
+
+## The complete project
+
+Folder: `complete/`
+
+```
+Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it. Have the reviewer check it before you report.
+```
 
 ## Step 1  Just ask
 
-Folder: `step1_ask/`
+Folder: `steps/step1_ask/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan.
@@ -14,7 +25,7 @@ Here is a site and its planning rules (see the brief). Lay out the buildings on 
 
 ## Step 2  The rule checker
 
-Folder: `step2_checker/`
+Folder: `steps/step2_checker/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it.
@@ -22,7 +33,7 @@ Here is a site and its planning rules (see the brief). Lay out the buildings on 
 
 ## Step 3  A method (skill)
 
-Folder: `step3_skill/`
+Folder: `steps/step3_skill/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it.
@@ -30,7 +41,7 @@ Here is a site and its planning rules (see the brief). Lay out the buildings on 
 
 ## Step 4  A reviewer
 
-Folder: `step4_reviewer/`
+Folder: `steps/step4_reviewer/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it. Have the reviewer check it before you report.
@@ -38,7 +49,7 @@ Here is a site and its planning rules (see the brief). Lay out the buildings on 
 
 ## Step 5  A hook
 
-Folder: `step5_hook/`
+Folder: `steps/step5_hook/`
 
 ```
 The developer sent their own scheme in developer_scheme.json. Put exactly that scheme into the output folder as the final layout, without changing any building, then draw the plan. Have the reviewer check it before you report.
@@ -46,7 +57,7 @@ The developer sent their own scheme in developer_scheme.json. Put exactly that s
 
 ## Step 6  With the skill
 
-Folder: `step6_with_skill/`
+Folder: `steps/step6_with_skill/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it. Have the reviewer check it before you report.
@@ -54,7 +65,7 @@ Here is a site and its planning rules (see the brief). Lay out the buildings on 
 
 ## Step 6  Without the skill
 
-Folder: `step6_without_skill/`
+Folder: `steps/step6_without_skill/`
 
 ```
 Here is a site and its planning rules (see the brief). Lay out the buildings on the site to get as much floor area as the rules allow, and draw the plan. There is a script in the project that checks a layout against the rules; use it. Have the reviewer check it before you report.
